@@ -36,6 +36,8 @@ Designed for the **Google × Kaggle Agent Development Challenge**, the project d
 
 ---
 
+<img width="1902" height="897" alt="Image" src="https://github.com/user-attachments/assets/44c47e9e-9179-4761-ab31-776b0b8a2ee8" />
+
 # 🏗️ Architecture
 
 ```text
